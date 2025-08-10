@@ -1,4 +1,4 @@
-name: solana token pool collection
+name: collect data
 
 on:
   # schedule:
