@@ -1,5 +1,5 @@
 No., token_name, token_address, 4.txt, 2A, 2B, 4A, 4B, 5A, 5B, 6A, 6B
-1,USDC,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,1,0,0,0,0,0,0,1,1
+1,USDC,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,1,0,0,0,0,0,0,1,0
 2,USDT,Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB,1,0,0,0,0,0,0,0,0
 3,SOL,So11111111111111111111111111111111111111112,1,0,0,0,0,0,0,1,1
 4,WBTC,3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh,1,0,0,0,0,0,0,0,0
@@ -70,9 +70,9 @@ No., token_name, token_address, 4.txt, 2A, 2B, 4A, 4B, 5A, 5B, 6A, 6B
 69,Beenz,9sbrLLnk4vxJajnZWXP9h5qk1NDFw7dz2eHjgemcpump,0,0,0,0,0,0,0,0,1
 70,COOK,G8Vy25NzjRmuQtnN35xF7j3X2Z1TrV39XijZu8Mg4w8n,0,0,0,0,0,0,0,0,1
 71,FatCat,AHdVQs56QpEEkRx6m8yiYYEiqM2sKjQxVd6mGH12pump,0,0,0,0,0,0,0,0,1
-72,doodoo,JDwzFSxcUvLubUb9xAuuZNvh4bbcEJcuM9TezpmRHVWF,0,0,0,0,0,0,0,0,1
-73,RAT,3vJenGaGsuKG5shPhi7rjnuy3MV6xjmBTGjYqYzXpump,0,0,0,0,0,0,0,0,1
+72,RAT,3vJenGaGsuKG5shPhi7rjnuy3MV6xjmBTGjYqYzXpump,0,0,0,0,0,0,0,0,1
+73,doodoo,JDwzFSxcUvLubUb9xAuuZNvh4bbcEJcuM9TezpmRHVWF,0,0,0,0,0,0,0,0,1
 74,HEEHEE,9dLuVbJMd4ZpTpFgmaFHAGSsFwVjtcnzFWaLAA1expHg,0,0,0,0,0,0,0,0,1
 75,XIN,4s4H5v4TXpmS4Ss66nxcCLgxrU5nunuwtkQceinZfGuw,0,0,0,0,0,0,0,0,1
-76,QTO,quantoL84tL1HvygKcz3TJtWRU6dFPW8imMzCa4qxGW,0,0,0,0,0,0,0,0,1
-77,gigacycle,Crtok2AHswrU1RBBJvbcLjsV7nBVUArNhbLdWqJZpump,0,0,0,0,0,0,0,0,1
+76,gigacycle,Crtok2AHswrU1RBBJvbcLjsV7nBVUArNhbLdWqJZpump,0,0,0,0,0,0,0,0,1
+77,AICC,3zQ1XAcbSejFZNdbTBGvFGQatvViYbcwgXZ5pQ3KRRaw,0,0,0,0,0,0,0,0,1
