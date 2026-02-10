@@ -1,8 +1,8 @@
 name: collect data
 
 on:
-  schedule:
-    - cron: '*/10 * * * *' #每10分钟运行一次
+  # schedule:
+  #   - cron: '*/10 * * * *' #每10分钟运行一次
   workflow_dispatch: #手动运行
 
 # 为整个工作流的 GITHUB_TOKEN 赋予写入权限
